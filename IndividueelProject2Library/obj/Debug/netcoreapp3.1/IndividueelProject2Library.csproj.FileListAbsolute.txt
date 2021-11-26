@@ -1,0 +1,10 @@
+C:\Users\Doema\source\repos\IndividueelProjectSemester2\IndividueelProject2Library\bin\Debug\netcoreapp3.1\IndividueelProject2Library.deps.json
+C:\Users\Doema\source\repos\IndividueelProjectSemester2\IndividueelProject2Library\bin\Debug\netcoreapp3.1\IndividueelProject2Library.dll
+C:\Users\Doema\source\repos\IndividueelProjectSemester2\IndividueelProject2Library\bin\Debug\netcoreapp3.1\IndividueelProject2Library.pdb
+C:\Users\Doema\source\repos\IndividueelProjectSemester2\IndividueelProject2Library\obj\Debug\netcoreapp3.1\IndividueelProject2Library.csproj.AssemblyReference.cache
+C:\Users\Doema\source\repos\IndividueelProjectSemester2\IndividueelProject2Library\obj\Debug\netcoreapp3.1\IndividueelProject2Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Doema\source\repos\IndividueelProjectSemester2\IndividueelProject2Library\obj\Debug\netcoreapp3.1\IndividueelProject2Library.AssemblyInfoInputs.cache
+C:\Users\Doema\source\repos\IndividueelProjectSemester2\IndividueelProject2Library\obj\Debug\netcoreapp3.1\IndividueelProject2Library.AssemblyInfo.cs
+C:\Users\Doema\source\repos\IndividueelProjectSemester2\IndividueelProject2Library\obj\Debug\netcoreapp3.1\IndividueelProject2Library.csproj.CoreCompileInputs.cache
+C:\Users\Doema\source\repos\IndividueelProjectSemester2\IndividueelProject2Library\obj\Debug\netcoreapp3.1\IndividueelProject2Library.dll
+C:\Users\Doema\source\repos\IndividueelProjectSemester2\IndividueelProject2Library\obj\Debug\netcoreapp3.1\IndividueelProject2Library.pdb
